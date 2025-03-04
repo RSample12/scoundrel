@@ -1,6 +1,7 @@
 Scoundrel Card Game:
 based on the Single Player Rogue-like Card Game by Zach Gage and Kurt Bieg
 
+'''
 scoundrel/
 ├── backend/               # Python backend
 │   ├── app.py             # FastAPI main file
@@ -34,3 +35,4 @@ scoundrel/
     │   └── RulesScreen.js # Game rules
     └── services/
         └── api.js         # API communication
+'''
